@@ -4,7 +4,7 @@ description: High school student interested in engineering, design, and applied 
 author: Malek Salam
 header_pages:
   - home.md
-  - ecoprint.md
+  - projects.md
 social_links:
   - title: Jekyll repository at GitHub
     icon: github
