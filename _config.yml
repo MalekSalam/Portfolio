@@ -1,14 +1,8 @@
-theme: minima
 title: Portfolio
 description: High school student interested in engineering, design, and applied technology
 author: Malek Salam
 header_pages:
   - home.md
-  - ecoprint.md
-social_links:
-  - title: Jekyll repository at GitHub
-    icon: github
-    url: "https://github.com/jekyll/jekyll"
-  - title: Jekyll at X (formerly Twitter)
-    icon: x-twitter
-    url: "https://x.com/jekyllrb"
+  - projects.md
+  - photography.md
+  - videography.md
