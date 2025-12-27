@@ -5,3 +5,8 @@ author: Malek Salam
 header_pages:
   - home.md
   - projects.md
+collections:
+  projects:
+    output: true
+  photos:
+    output: true
