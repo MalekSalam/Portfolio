@@ -1,1 +1,7 @@
-
+theme: minima
+title: Malek Salam
+description: High school student interested in engineering, design, and applied technology
+author: Malek Salam
+header_pages:
+  - index.md
+  - projects.md
